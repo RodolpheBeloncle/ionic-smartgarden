@@ -1,0 +1,7 @@
+{
+  "name": "smartGarden",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
